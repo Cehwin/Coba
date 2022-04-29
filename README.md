@@ -1,2 +1,2 @@
 # Coba
-Sekedar coba dan latihan bikin repo
+Sekedar coba dan latihan bikin repo biar makin joss
